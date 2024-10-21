@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HiteshMondal
-- 👀 I’m interested in JavaScript and MERN Stack
-- 🌱 I’m currently learning ReactJs and NodeJs
+- 👀 I’m interested in Full-Stack and Linux
+- 🌱 I’m currently learning Advanced JavaScript, C++ and Linux Terminal
 - 💞️ I’m looking to collaborate on Fullstack WebDev
 - 📫 How to reach me:mehiteshmondal@gmail.com or 8584929519
 - 😄 Pronouns: He/Him
