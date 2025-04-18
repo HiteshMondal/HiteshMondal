@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HiteshMondal
-- 👀 I’m interested in Full-Stack and Linux
-- 🌱 I’m currently learning Advanced JavaScript, C++ and Linux Terminal
-- 💞️ I’m looking to collaborate on Fullstack WebDev
+- 👀 I’m interested in MERN-Stack, Cloud Services and Linux
+- 🌱 I’m currently learning Advanced JavaScript, Cloud(AWS and Azure), Docker and Linux(Debian Based)
+- 💞️ I’m looking to collaborate on Fullstack WebDev Projects
 - 📫 How to reach me:mehiteshmondal@gmail.com or 8584929519
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Life is short and each minute is important so utilize it;
