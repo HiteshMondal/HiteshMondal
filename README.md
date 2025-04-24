@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HiteshMondal
-- 👀 I’m interested in MERN-Stack, Cloud Services and Linux
+- 👀 I’m interested in JavaScript MERN-Stack, Cloud Services and Linux
 - 🌱 I’m currently learning Advanced JavaScript, Cloud(AWS and Azure), Docker and Linux(Debian Based)
 - 💞️ I’m looking to collaborate on Fullstack WebDev Projects
 - 📫 How to reach me:mehiteshmondal@gmail.com or 8584929519
