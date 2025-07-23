@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HiteshMondal
-- 👀 I’m interested in JavaScript/TypeScript Full-Stack, Cloud Services and Linux
+- 👀 I’m interested in JavaScript/TypeScript Full-Stack, Cloud Services, DevOps and Linux
 - 🌱 I’m currently learning Advanced Full Stack Dev, Cloud(AWS), Docker/Kubernetes, CI/CD and Linux(Debian Based)
 - 💞️ I’m looking to collaborate on Fullstack WebDev Projects
 - 📫 How to reach me:mehiteshmondal@gmail.com or 8584929519
