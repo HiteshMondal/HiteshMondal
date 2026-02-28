@@ -73,8 +73,8 @@
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: (linkedin.com/in/hitesh-mondal-1ba04a317)
-* 📧 Email: (mehiteshmondal@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/hitesh-mondal-1ba04a317
+* 📧 Email: mehiteshmondal@gmail.com
 
 ---
 
