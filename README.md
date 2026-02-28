@@ -71,23 +71,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=radical)
-
----
-
-## 🔥 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=radical)
-
----
-
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
-* 🌐 Portfolio: (Add if available)
+* 💼 LinkedIn: (linkedin.com/in/hitesh-mondal-1ba04a317)
+* 📧 Email: (mehiteshmondal@gmail.com)
 
 ---
 
