@@ -73,19 +73,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiteshMondal&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshMondal&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: [https://linkedin.com/in/hitesh-mondal-1ba04a317](https://linkedin.com/in/hitesh-mondal-1ba04a317)
 * 📧 Email: [mehiteshmondal@gmail.com](mailto:mehiteshmondal@gmail.com)
+* 📞 Phone: +91 8584929519
 
 ---
 
