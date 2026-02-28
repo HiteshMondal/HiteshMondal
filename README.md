@@ -1,3 +1,5 @@
+---
+
 # 👋 Hi, I'm Hitesh Mondal
 
 <p align="center">
@@ -8,9 +10,9 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 Passionate about **DevOps, Cloud Infrastructure, and Security**
+* 🎓 Passionate about **DevOps, Cloud Infrastructure, and Cybersecurity**
 * ⚙️ Love building **scalable systems, CI/CD pipelines, and automation tools**
-* 🌐 Experienced in **Full-Stack Web Development**
+* 🌐 Experienced in **Web Development, DevOps & Cloud, and Networking & Security**
 * 📍 Based in West Bengal, India
 
 ---
@@ -19,27 +21,27 @@
 
 ### 💻 Programming & Scripting
 
-* JavaScript | TypeScript | Python | SQL | Bash
+`JavaScript` `TypeScript` `Python` `SQL` `Bash`
 
 ### 🌐 Web Development
 
-* React.js | Next.js | Node.js | Tailwind CSS | REST APIs
+`React.js` `Next.js` `Node.js` `Tailwind CSS` `REST APIs`
 
 ### ⚙️ DevOps & Cloud
 
-* Docker | Kubernetes | Terraform | Argo CD
-* AWS (VPC, EKS, RDS)
-* CI/CD: GitHub Actions | Jenkins | GitLab CI/CD
+`Docker` `Kubernetes` `Terraform` `Argo CD`
+`AWS (VPC, EKS, RDS)`
+`GitHub Actions` `Jenkins` `GitLab CI/CD`
 
 ### 📊 Monitoring & Observability
 
-* Prometheus | Grafana | Loki | Alertmanager
+`Prometheus` `Grafana` `Loki` `Alertmanager`
 
 ### 🔐 Networking & Security
 
-* Networking Fundamentals
-* Cybersecurity & System Hardening
-* Network Monitoring & Analysis
+`Networking Fundamentals`
+`System Hardening`
+`Network Monitoring & Analysis`
 
 ---
 
@@ -47,34 +49,43 @@
 
 ### 🔹 End-to-End DevOps & Cloud Platform
 
-* Built a production-grade DevOps pipeline using **Docker, Kubernetes, Terraform, Argo CD**
+* Built a production-grade DevOps pipeline using **Docker, Kubernetes, Terraform, and Argo CD**
 * Provisioned AWS infrastructure (**VPC, EKS, RDS**)
 * Implemented **GitOps-based Continuous Deployment**
-* Set up monitoring with **Prometheus, Grafana, Loki**
+* Set up monitoring with **Prometheus, Grafana, and Loki**
 
 ---
 
 ### 🔹 Networking & Cybersecurity Automation Toolkit
 
-* Developed a **Bash-based security toolkit**
-* Automated **system hardening, log analysis, and forensics**
-* Implemented **network scanning & anomaly detection**
+* Developed a **Bash-based modular security toolkit**
+* Automated **system hardening, log analysis, and digital forensics**
+* Implemented **network scanning, DNS analysis, and anomaly detection**
 
 ---
 
 ### 🔹 Social Media Web Application
 
-* Built a full-stack app with **authentication, posts, likes, comments**
+* Built a full-stack application with **authentication, posts, likes, and comments**
 * Integrated **GitHub OAuth**
-* Optimized deployments with **CI/CD pipelines (40% faster)**
-* Containerized using **Docker**
+* Improved deployment efficiency with **CI/CD pipelines (40% faster)**
+* Containerized the application using **Docker**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiteshMondal&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshMondal&layout=compact&theme=radical" height="165"/>
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: linkedin.com/in/hitesh-mondal-1ba04a317
-* 📧 Email: mehiteshmondal@gmail.com
+* 💼 LinkedIn: [https://linkedin.com/in/hitesh-mondal-1ba04a317](https://linkedin.com/in/hitesh-mondal-1ba04a317)
+* 📧 Email: [mehiteshmondal@gmail.com](mailto:mehiteshmondal@gmail.com)
 
 ---
 
@@ -87,8 +98,3 @@ I enjoy building systems that **automate everything and break nothing 😄**
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
 ---
-
-<!---
-HiteshMondal/HiteshMondal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
