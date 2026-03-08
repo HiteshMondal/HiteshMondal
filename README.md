@@ -45,34 +45,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔹 End-to-End DevOps & Cloud Platform
-
-* Built a production-grade DevOps pipeline using **Docker, Kubernetes, Terraform, and Argo CD**
-* Provisioned AWS infrastructure (**VPC, EKS, RDS**)
-* Implemented **GitOps-based Continuous Deployment**
-* Set up monitoring with **Prometheus, Grafana, and Loki**
-
----
-
-### 🔹 Networking & Cybersecurity Automation Toolkit
-
-* Developed a **Bash-based modular security toolkit**
-* Automated **system hardening, log analysis, and digital forensics**
-* Implemented **network scanning, DNS analysis, and anomaly detection**
-
----
-
-### 🔹 Social Media Web Application
-
-* Built a full-stack application with **authentication, posts, likes, and comments**
-* Integrated **GitHub OAuth**
-* Improved deployment efficiency with **CI/CD pipelines (40% faster)**
-* Containerized the application using **Docker**
-
----
-
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: [https://linkedin.com/in/hitesh-mondal-1ba04a317](https://linkedin.com/in/hitesh-mondal-1ba04a317)
